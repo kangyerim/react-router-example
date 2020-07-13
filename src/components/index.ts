@@ -1,0 +1,13 @@
+export {default as About} from './About'
+export {default as Contacts} from './Contacts'
+export {default as Event} from './Event'
+export {default as Home} from './Home'
+export {default as Products} from './Products'
+export {default as Error} from  './Error'
+export {default as MainMenu} from './MainMenu'
+export {default as PageTemplate} from './PageTemplate'
+export {default as AboutMenu} from './AboutMenu'
+
+export {default as History} from './aboutMenu/History'
+export {default as Services} from './aboutMenu/Services'
+export {default as Company} from './aboutMenu/Company'
